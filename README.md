@@ -38,13 +38,4 @@ Em constante evolução — unindo lógica, criatividade e tecnologia para const
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoooliveira25&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoooliveira25&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### ✨ “A tecnologia transforma possibilidades em realidade.”
