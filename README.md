@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou Gustavo Cardoso de Oliveira.</h1>
 
-<!--
-**gustavooliveira25/gustavooliveira25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Em constante evolução — unindo lógica, criatividade e tecnologia para construir soluções reais.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Sobre mim  
+
+- 🎓 Estudante de **Ciências da Computação**  
+- 🛠 Atualmente cursando **Técnico em Manutenção e Suporte em Informática**  
+- 🚀 Apaixonado por tecnologia, inovação e desenvolvimento  
+- 🔍 Sempre buscando aprender, criar e melhorar minhas habilidades  
+
+---
+
+### 📫 Entre em contato comigo
+
+<a href="https://www.linkedin.com/in/gustavo-cardoso-2088ab185" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+---
+
+### 🧰 Linguagens e Ferramentas  
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Storage-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoooliveira25&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoooliveira25&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### ✨ “A tecnologia transforma possibilidades em realidade.”
